@@ -1,0 +1,11 @@
+junegunn/fzf
+plugins/command-not-found, from:oh-my-zsh
+plugins/docker, from:oh-my-zsh
+plugins/docker-compose, from:oh-my-zsh
+plugins/flutter, from:oh-my-zsh
+plugins/git, from:oh-my-zsh
+plugins/sudo, from:oh-my-zsh
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-completions
+zsh-users/zsh-history-substring-search
+zsh-users/zsh-syntax-highlighting

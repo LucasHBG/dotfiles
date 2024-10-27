@@ -1,0 +1,11 @@
+zsh-users/zsh-completions
+zsh-users/zsh-syntax-highlighting
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-history-substring-search
+plugins/docker
+plugins/git
+plugins/git
+plugins/docker-compose
+plugins/sudo
+plugins/flutter
+plugins/command-not-found
